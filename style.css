@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+table{
+    border-radius: 10px;
+    float: left;
+    width:70%; 
+    height: 80px;
+    margin-top: 20px;
+    margin-left:15%; 
+    margin-right:15%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.2s;
+    margin-bottom: 40px;
+    background-color: white;
+    text-align: center;
+  }
+  table:hover{
+    box-shadow: 0 8px 16px 0 rgba(19, 4, 4, 0.2);
+  }
+  #row{
+      color: crimson;
+  }
